@@ -6,3 +6,7 @@ def load_data():
 
   def processing ():
     print("processing the files...")
+
+def clean_data():
+  print("cleaning the data")
+  
