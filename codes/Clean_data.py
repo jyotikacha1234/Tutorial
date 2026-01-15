@@ -10,5 +10,5 @@ def processing ():
 def clean_data():
   print("cleaning the data")
   
-  def visual():
-   print("creating the visuals...")
+def visual():
+  print("creating the visuals...")
