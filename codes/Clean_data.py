@@ -12,3 +12,5 @@ def clean_data():
   
 def visual():
   print("creating the visuals...")
+def launch():
+  print("website is online...")
